@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## You can find me at:
+ 
+* Zhihu: https://www.zhihu.com/people/lu-meng-zheng-28
+* Steam: https://steamcommunity.com/profiles/76561198097082898/
+
+[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=IncubatorShokuhou)](https://github.com/anuraghazra/github-readme-stats)
