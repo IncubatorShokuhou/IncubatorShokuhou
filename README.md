@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 * Bilibili: https://space.bilibili.com/126825
 
 
-[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=IncubatorShokuhou&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=IncubatorShokuhou&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IncubatorShokuhou&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
